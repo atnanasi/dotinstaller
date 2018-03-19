@@ -1,2 +1,3 @@
 # dotinstaller
-Powerful dotfiles installer
+
+my dotfiles
