@@ -1,0 +1,2 @@
+# dotinstaller
+Powerful dotfiles installer
